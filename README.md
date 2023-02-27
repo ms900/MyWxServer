@@ -8,17 +8,17 @@
   
 四、环境配置：  
 1.启动项目——>微信公众号——>基本配置——>复制ngrok中的URL地址：  
-![image](https://user-images.githubusercontent.com/56071025/221504144-4c46ffeb-61f2-4135-adf9-3df9e127e01a.png)  
+<img src="https://user-images.githubusercontent.com/56071025/221504144-4c46ffeb-61f2-4135-adf9-3df9e127e01a.png" width="500px">  
 
-2.申请微信公众号测试平台（https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login&token=910581060&lang=zh_CN）  
+2.申请微信公众号测试平台https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login&token=910581060&lang=zh_CN    
 
 2.1配置appid和secret：  
-![image](https://user-images.githubusercontent.com/56071025/221507106-19987595-84da-4ab7-8161-111665230379.png)
+<img src="https://user-images.githubusercontent.com/56071025/221507106-19987595-84da-4ab7-8161-111665230379.png" width="500px">  
 
 2.2配置测试号的URL地址：  
-![image](https://user-images.githubusercontent.com/56071025/221505287-4addc336-53d4-4cd6-a3a9-4593f9d4715a.png)  
+<img src="https://user-images.githubusercontent.com/56071025/221505287-4addc336-53d4-4cd6-a3a9-4593f9d4715a.png" width="500px">    
 
 3.扫码关注测试号：  
-![image](https://user-images.githubusercontent.com/56071025/221507995-0d4e5dcf-7ad3-4159-a40f-40767040f630.png)
+<img src="https://user-images.githubusercontent.com/56071025/221507995-0d4e5dcf-7ad3-4159-a40f-40767040f630.png" width="500px">  
 
 
